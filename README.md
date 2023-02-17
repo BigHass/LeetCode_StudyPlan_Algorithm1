@@ -11,4 +11,11 @@
         <li><a href="https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i">35_Search Insert Position</a></li>
       </ul>
     </li>
+    <li>
+      day2
+      <ul>
+        <li><a href="https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i">977_Squares of a Sorted Array</a></li>
+        <li><a href="https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i">189_Rotate Array</a></li>
+      </ul>
+    </li>
   </ol>
