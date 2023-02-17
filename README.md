@@ -1,4 +1,4 @@
-# Leetcode_algorithm1
+# Leetcode_StudyPlan_Algorithm1_Using_Python
 
 <!-- TABLE OF CONTENTS -->
   <summary>Table of Contents</summary>
