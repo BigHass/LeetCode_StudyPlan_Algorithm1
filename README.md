@@ -18,4 +18,11 @@
         <li><a href="https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i">189_Rotate Array</a></li>
       </ul>
     </li>
+    <li>
+      day3
+      <ul>
+        <li><a href="https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i">283_Move Zeroes</a></li>
+        <li><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i">167_Two Sum II - Input Array Is Sorted</a></li>
+      </ul>
+    </li>
   </ol>
