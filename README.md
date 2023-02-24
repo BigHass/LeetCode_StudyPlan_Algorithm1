@@ -25,4 +25,11 @@
         <li><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i">167_Two Sum II - Input Array Is Sorted</a></li>
       </ul>
     </li>
+    <li>
+      day3
+      <ul>
+        <li><a href="https://leetcode.com/problems/reverse-string/?envType=study-plan&id=algorithm-i">344_Reverse String</a></li>
+        <li><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/?envType=study-plan&id=algorithm-i">557_Reverse Words in a String III</a></li>
+      </ul>
+    </li>
   </ol>
